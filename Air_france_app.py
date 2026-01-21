@@ -59,7 +59,9 @@ st.markdown("""
 st.markdown('<h1 class="main-header">✈️ Air France Customer Service Sentiment Analysis</h1>', unsafe_allow_html=True)
 st.markdown("""
 ### An Economic & Data Science Perspective on Customer Experience Impact
-*Analyzing customer sentiment to identify revenue opportunities and operational improvements*
+*Analyzing customer sentiment to identify revenue opportunities and operational improvements* \n
+*By Emmanuel Nosakhare Asowata*\n
+*Contact at nosakhareasowata94@gmail.com*
 """)
 
 # Sidebar
@@ -120,7 +122,7 @@ with st.sidebar:
 
     st.markdown("---")
     st.markdown("""
-    **Project By:** Data Science Team
+    **Project By:** Nosakhare Asowata, Applied & Quantitative Economist.
 
     **Goal:** Demonstrate how data-driven insights can drive revenue growth through improved customer experience.
     """)
